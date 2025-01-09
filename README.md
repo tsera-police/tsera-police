@@ -5,13 +5,13 @@
 
 - 🔭 We are currently working on **numerous intelligence and communications projects.**
 
-- 📝 We publish articles at [https://medium.com/@tsera-special-police](https://medium.com/@tsera-special-police)
+- 📄 Learn more about what we do [here](https://tsera.org/about/).
+
+- 📝 We publish articles on [Medium](https://medium.com/@tsera-special-police) and [Quora](https://www.quora.com/profile/TSERA-Special-Police/).
 
 - 💬 Ask us about **anything.**
 
 - 📫 How to reach us **github-support@tsera.org**
-
-- 📄 Learn more about what we do at [https://tsera.org/about/](https://tsera.org/about/)
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
